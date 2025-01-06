@@ -1,4 +1,4 @@
-import styles from "./navbar.module.css";
+import styles from "./style.module.css";
 import logo from "./assets/logo.svg";
 
 function NavBar() {
