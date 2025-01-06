@@ -1,0 +1,58 @@
+:root {
+  --dark-gray: #262626;
+  --dark-blue: #257be5;
+}
+
+html {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  background-color: var(--dark-gray);
+  display: flex;
+}
+
+.navbarLogo {
+  margin: 1rem;
+  width: 50%;
+}
+
+.navbarButtons {
+  margin: 1rem;
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 1rem;
+  width: 50%;
+}
+
+.navbarButtonHome {
+  background-color: #040404;
+  color: #fff;
+  border-color: white;
+  border-width: 0.25rem;
+  border-style: solid;
+  border-radius: 0.5rem;
+  padding: 0.5rem 2rem;
+}
+.navbarButtonHome:hover {
+  background-color: var(--dark-gray);
+  color: var(--dark-blue);
+  border-color: var(--dark-blue);
+}
+
+.navbarButtonNewVideo,
+.navbarButtonNewVideo:hover {
+  background-color: #040404;
+  color: #fff;
+  border-color: white;
+  border-width: 0.25rem;
+  border-style: solid;
+  border-radius: 0.5rem;
+  padding: 0.5rem 2rem;
+}
+.navbarButtonNewVideo:hover,
+.navbarButtonNewVideo:active {
+  background-color: var(--dark-gray);
+  color: var(--dark-blue);
+  border-color: var(--dark-blue);
+}
