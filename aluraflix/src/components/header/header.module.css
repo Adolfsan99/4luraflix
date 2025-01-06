@@ -1,0 +1,39 @@
+:root {
+  --header: url("./assets/background.png");
+}
+
+.header {
+  background-image: var(--header);
+  background-size: cover;
+}
+
+.headerContainer {
+  background-color: #0012338f;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.categoryFrontEnd {
+  background-color: #6bd1ff;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 2rem;
+  border-radius: 1rem;
+  font-weight: 600;
+  width: fit-content;
+}
+
+.headerTitle {
+  color: #fff;
+}
+
+.headerDescription {
+  color: #fff;
+}
+
+.headerSubContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 2rem;
+}
