@@ -1,0 +1,70 @@
+:root {
+  --dark-gray: #262626;
+  --dark-blue: #257be5;
+}
+
+.mainCategory {
+  background-color: var(--dark-gray);
+  padding: 2rem;
+}
+
+.categoryContainer {
+  padding: 2rem;
+  display: flex;
+}
+.categoryTitle {
+  background-color: #6bd1ff;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  font-size: 2rem;
+  border-radius: 1rem;
+  font-weight: 600;
+  width: fit-content;
+}
+
+.videoContrainer {
+  background-color: #030303;
+  width: 33%;
+  /*padding: 0.5rem;*/
+  margin: 1rem;
+  border-radius: 1rem;
+  /*border-color: #257be5;*/
+  border-style: solid;
+  border-width: 0.25rem;
+}
+.videoContrainer img {
+  width: 100%;
+  border-radius: 1rem;
+}
+.videoTitle {
+  font-size: 1rem;
+  color: white;
+  padding: 0.5rem 0.5rem;
+  text-align: center;
+}
+.videoManager {
+  border-color: #257be5;
+  border-style: solid;
+  border-width: 0.25rem;
+  border-bottom-left-radius: 0.75rem;
+  border-bottom-right-radius: 0.75rem;
+  padding: 0;
+  margin: 0;
+}
+.videoButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.videoButton {
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 0.5rem 0.5rem;
+  border-radius: 1rem;
+}
+.videoButton:hover {
+  background-color: white;
+  color: black;
+}

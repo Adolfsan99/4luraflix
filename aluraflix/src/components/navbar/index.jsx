@@ -8,8 +8,8 @@ function NavBar() {
         <img src={logo} alt="Logo AluraFlix" />
       </div>
       <div className={styles.navbarButtons}>
-        <button className={styles.navbarButtonHome}>Home</button>
-        <button className={styles.navbarButtonNewVideo}>Nuevo video</button>
+        <button className={styles.navbarButtonNewVideo}>NUEVO VIDEO</button>
+        <button className={styles.navbarButtonHome}>INICIO</button>
       </div>
     </nav>
   );
