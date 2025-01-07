@@ -1,16 +1,23 @@
 import "./App.css";
 import NavBar from "./components/navbar";
-import Header from "./components/header";
 import Footer from "./components/footer";
-import Category from "./components/category";
+
+import HomePage from "./pages/home";
+import NewVideo from "./pages/newvideo";
+
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <NavBar />
-      <Header />
-      <Category />
-      <Footer />
+    <NavBar />
+      <Router>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/nuevo-video" element={<NewVideo />} />
+        </Routes>
+      </Router>
+    <Footer />
     </>
   );
 }

@@ -1,0 +1,79 @@
+{
+  "categorias": {
+    "frontend": {
+      "videos": [
+        {
+          "id": 1,
+          "titulo": "Introducción a HTML",
+          "descripcion": "Un video introductorio sobre HTML.",
+          "imagen": "url_de_imagen_1",
+          "video": "url_de_video_1"
+        },
+        {
+          "id": 2,
+          "titulo": "CSS Básico",
+          "descripcion": "Aprende los fundamentos de CSS.",
+          "imagen": "url_de_imagen_2",
+          "video": "url_de_video_2"
+        },
+        {
+          "id": 3,
+          "titulo": "JavaScript para Principiantes",
+          "descripcion": "Comienza a programar con JavaScript.",
+          "imagen": "url_de_imagen_3",
+          "video": "url_de_video_3"
+        }
+      ]
+    },
+    "backend": {
+      "videos": [
+        {
+          "id": 1,
+          "titulo": "Introducción a Node.js",
+          "descripcion": "Primeros pasos con Node.js.",
+          "imagen": "url_de_imagen_4",
+          "video": "url_de_video_4"
+        },
+        {
+          "id": 2,
+          "titulo": "Bases de Datos Relacionales",
+          "descripcion": "Conoce los fundamentos de las bases de datos.",
+          "imagen": "url_de_imagen_5",
+          "video": "url_de_video_5"
+        },
+        {
+          "id": 3,
+          "titulo": "APIs REST",
+          "descripcion": "Cómo construir APIs RESTful.",
+          "imagen": "url_de_imagen_6",
+          "video": "url_de_video_6"
+        }
+      ]
+    },
+    "innovacion": {
+      "videos": [
+        {
+          "id": 1,
+          "titulo": "Tendencias Tecnológicas 2025",
+          "descripcion": "Explora las tecnologías emergentes.",
+          "imagen": "url_de_imagen_7",
+          "video": "url_de_video_7"
+        },
+        {
+          "id": 2,
+          "titulo": "Introducción a la IA",
+          "descripcion": "Entiende los conceptos básicos de la inteligencia artificial.",
+          "imagen": "url_de_imagen_8",
+          "video": "url_de_video_8"
+        },
+        {
+          "id": 3,
+          "titulo": "El Futuro de la Realidad Virtual",
+          "descripcion": "Un vistazo al desarrollo de la realidad virtual.",
+          "imagen": "url_de_imagen_9",
+          "video": "url_de_video_9"
+        }
+      ]
+    }
+  }
+}

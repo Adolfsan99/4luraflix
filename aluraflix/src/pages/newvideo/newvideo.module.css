@@ -1,0 +1,21 @@
+body {
+  background-color: var(--dark-gray);
+}
+
+.form {
+  background-color: black;
+  color: white;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title,
+.description {
+  color: #fff;
+  text-align: center;
+}
