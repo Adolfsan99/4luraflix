@@ -34,7 +34,11 @@
    - Los videos se diferencian visualmente según su categoría mediante colores.
 
 4. **Descripción de videos:**
+
    - Ahora puedes ver la descripción de un video antes de reproducirlo.
+
+5. **Uso de confirmaciones en acciones sensibles:**
+   - Antes de realizar acciones críticas, como eliminar un video o limpiar los datos de un formulario, el sistema solicita una confirmación para evitar errores accidentales.
 
 ---
 
@@ -50,8 +54,12 @@
   - JSON Server (simula una API RESTful para el almacenamiento de datos)
 
 - **Dependencias:**
+
   - React Router (para la navegación entre páginas)
   - Fetch API (para manejar peticiones HTTP)
+
+- **Herramientas de desarrollo:**
+  - Vite (como bundler para un desarrollo más rápido y optimizado)
 
 ---
 
