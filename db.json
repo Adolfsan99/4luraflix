@@ -1,0 +1,252 @@
+{
+  "videos": [
+    {
+      "id": "9619",
+      "title": "React Hooks: ¿qué son y cómo funcionan?",
+      "description": "Daniel Riverol nos enseña los diferentes usos de uno de los hooks más utilizados en React",
+      "cover": "https://i.ytimg.com/vi/9xlea2yDFaY/maxresdefault.jpg",
+      "video": "https://youtu.be/9xlea2yDFaY?si=rHUkIL6orG1hV5WL",
+      "category": "frontend"
+    },
+    {
+      "id": "d7c1",
+      "title": "Consejos de CSS FlexBox para comenzar",
+      "description": "Aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas.",
+      "cover": "https://i.ytimg.com/vi/EB4vWLzfVcI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=EB4vWLzfVcI",
+      "category": "frontend"
+    },
+    {
+      "id": "3903",
+      "title": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+      "description": "Gabi A entrevista la instructora front end Barbara y aprende sobre el mundo del CSS de una forma muy divertida.",
+      "cover": "https://i.ytimg.com/vi/MXPhyN5t0uQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=MXPhyN5t0uQ",
+      "category": "frontend"
+    },
+    {
+      "id": "32b6",
+      "title": "Como aplicar Dark Mode en tu proyecto",
+      "description": "La funcionalidad conocida como Dark Mode está cada vez más popular, sendo encontrada en diversos tipos de aplicaciones, redes sociales, plataformas educacionales o de entretenimiento.",
+      "cover": "https://i.ytimg.com/vi/MxlxFhzGRV8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=MxlxFhzGRV8",
+      "category": "frontend"
+    },
+    {
+      "id": "6a15",
+      "title": "Consejos para aumentar tu productividad en el trabajo remoto",
+      "description": "Sabemos que hoy en día el trabajo remoto es la realidad de muchas personas, principalmente en la área de tecnología. Pero aunque esa modalidad sea muy comoda, hay algunos factores que pueden distraernos cuando trabajamos desde casa. Por eso te traemos algunos consejos para no perder la productividad en el trabajo remoto.",
+      "cover": "https://i.ytimg.com/vi/AULPtYo25Lw/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=AULPtYo25Lw",
+      "category": "innovacion"
+    },
+    {
+      "id": "1869",
+      "title": "Creando un juego en JavaScript con ayuda de #chatgpt #pair #progamming",
+      "description": "Acompáñanos mientras exploramos cómo esta poderosa herramienta puede ayudarnos en el proceso de crear un juego desde cero.🎮 ",
+      "cover": "https://i.ytimg.com/vi/2d4PT6-2X1w/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=2d4PT6-2X1w",
+      "category": "innovacion"
+    },
+    {
+      "id": "84df",
+      "title": "Git y GitHub para Principiantes",
+      "description": "Ve cómo funciona esta famosa herramienta de colaboración muy utilizada en el universo de la tecnología y tiene el control de las diferentes versiones de tus proyectos.",
+      "cover": "https://i.ytimg.com/vi/-LmFK6skG7s/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=-LmFK6skG7s",
+      "category": "innovacion"
+    },
+    {
+      "id": "117b",
+      "title": "¿Cómo un desarrollador Front End utiliza el Figma?",
+      "description": "Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "cover": "https://i.ytimg.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+      "category": "innovacion"
+    },
+    {
+      "id": "c439",
+      "title": "¿Qué es SQL y NoSQL?",
+      "description": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+      "cover": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "category": "backend"
+    },
+    {
+      "id": "9c66",
+      "title": "Spring Framework. ¿Qué es ?",
+      "description": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.",
+      "cover": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+      "category": "backend"
+    },
+    {
+      "id": "c2f6",
+      "title": "Qué Significa Pensar Como Programador",
+      "description": "¿Cuáles son las principales características de un programador? ¿Qué habilidades y competencias debe tener alguien que quiere seguir esa carrera? ",
+      "cover": "https://i.ytimg.com/vi/ov7vA5HFe6w/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=ov7vA5HFe6w",
+      "category": "backend"
+    },
+    {
+      "id": "bc68",
+      "title": "Frameworks de Front End",
+      "description": "¿Quieres conocer sobre los frameworks más utilizados en el mercado hoy en día? En este video nuestro instructor de Front End nos explicarás cuáles son los frameworks de Front más conocidos y las diferencias entre ellos.",
+      "cover": "https://i.ytimg.com/vi/UNeKzI2WHgQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=UNeKzI2WHgQ",
+      "category": "frontend"
+    },
+    {
+      "id": "ce1c",
+      "title": "Creando un sistema Python utilizando la API de #ChatGPT",
+      "description": "En este emocionante episodio, te guiaremos paso a paso en la creación de un sistema Python, utilizando la API  de ChatGPT de OpenAI y Google Colab. Aprenderás a integrar tecnologías de IA a través de una API (Interfaz de Programación de Aplicaciones) para construir un asistente capaz de generar respuestas inteligentes basadas en un contexto proporcionado. Desde la configuración inicial hasta la construcción de un sistema Python, te sumergirás en el fascinante mundo de la IA y la programación colaborativa en la nube. ",
+      "cover": "https://i.ytimg.com/vi/l9WNVMnddWU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=l9WNVMnddWU",
+      "category": "backend"
+    },
+    {
+      "id": "63ed",
+      "title": "¿Por qué utilizar React?",
+      "description": "Platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React. ",
+      "cover": "https://i.ytimg.com/vi/MnBNPA45NW8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+      "category": "frontend"
+    },
+    {
+      "id": "38e7",
+      "title": "¿Qué es la Heutagogía? La Revolución del Aprendizaje Autodirigido",
+      "description": "En este video exploramos este enfoque revolucionario de aprendizaje autodirigido que promueve la autonomía y la autorregulación en el proceso de aprender. Descubre cómo esta metodología fomenta la independencia, el desarrollo de habilidades críticas y la adaptabilidad en un mundo que exige constante actualización de conocimientos. Desde sus diferencias con la pedagogía y la andragogía hasta su aplicación en la vida profesional y personal, aprenderás por qué la heutagogía es clave para el aprendizaje en el siglo XXI.",
+      "cover": "https://i.ytimg.com/vi/-hq-rOK8iWM/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=-hq-rOK8iWM",
+      "category": "innovacion"
+    },
+    {
+      "id": "4a5c",
+      "title": "Simplificando tu código en Java: Conoce los enum",
+      "description": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? ",
+      "cover": "https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+      "category": "backend"
+    },
+    {
+      "id": "67b5",
+      "title": "Cuándo usar let, var y const?",
+      "description": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "cover": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=PztCEdIJITY",
+      "category": "backend"
+    },
+    {
+      "id": "218b",
+      "title": "Maximiza tus Resultados con Prompts Inteligentes en ChatGPT",
+      "description": "En este video descubrirás cómo crear prompts inteligentes para maximizar tus resultados al utilizar ChatGPT. Aprende técnicas efectivas para diseñar instrucciones claras, detalladas y estratégicas que te permitirán aprovechar todo el potencial de esta herramienta de IA. Desde ejemplos prácticos hasta consejos para mejorar la precisión de las respuestas, exploraremos cómo los prompts pueden transformar la calidad y eficacia de tus interacciones. ¡Empieza a sacar el máximo provecho de ChatGPT hoy!",
+      "cover": "https://i.ytimg.com/vi/lN_n1LAlmAA/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=lN_n1LAlmAA",
+      "category": "innovacion"
+    },
+    {
+      "id": "c2c4",
+      "title": "¿Cómo es trabajar en una startup de tecnología?",
+      "description": "En este video nuestras invitadas comentan un poco sobre su día a día trabajando en startups de tecnología.",
+      "cover": "https://i.ytimg.com/vi/zEAD3Uq-C0g/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=zEAD3Uq-C0g",
+      "category": "innovacion"
+    },
+    {
+      "id": "318f",
+      "title": "Python para Data Science",
+      "description": "¿Vamos a hablar de Phyton para ciencia de datos?",
+      "cover": "https://i.ytimg.com/vi/JMKZMa0tMhQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=JMKZMa0tMhQ",
+      "category": "backend"
+    },
+    {
+      "id": "c11c",
+      "title": "¿Sabes qué es NodeJS?",
+      "description": "¿Es un lenguaje de programación? ¿Es un ambiente de desarrollo? ¿Una herramienta? En este video nuestro instructor, Leonardo Castillo, nos explica qué es NodeJS y para qué sirve.",
+      "cover": "https://i.ytimg.com/vi/o8x_n4Px1N0/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=o8x_n4Px1N0",
+      "category": "frontend"
+    },
+    {
+      "id": "e69f",
+      "title": "De JavaScript a TypeScript: La Evolución que Todo Front-End Necesita",
+      "description": "¿Sabes cuáles son las diferencias entre JavaScript y TypeScript? En este video, Gabriela Aguiar y Barbara dos Santos te explican de manera clara y sencilla las ventajas y desventajas de cada uno de estos lenguajes",
+      "cover": "https://i.ytimg.com/vi/BaRZEFHI-oY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=BaRZEFHI-oY",
+      "category": "frontend"
+    },
+    {
+      "id": "3029",
+      "title": "Java vs. JavaScript: ¡La Batalla de los Lenguajes de Programación!",
+      "description": "Diferencias entre Java contra JavaScript y usos frecuentes de ambos lenguajes de programación",
+      "cover": "https://i.ytimg.com/vi/GnztLZzd0Ew/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=GnztLZzd0Ew",
+      "category": "backend"
+    },
+    {
+      "id": "d87e",
+      "title": "Ventajas de trabajar con TypeScript",
+      "description": "¿Quieres conocer más sobre qué es y cuáles son las ventajas de utilizar TypeScript?",
+      "cover": "https://i.ytimg.com/vi/bFrhU0hbo00/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=bFrhU0hbo00",
+      "category": "frontend"
+    },
+    {
+      "id": "c661",
+      "title": "Box Model y Box sizing",
+      "description": "Instructora front-end, Jeanmarie Quijada, nos ayudará a entender que es Box Model, uno de los conceptos fundamentales para la construcción correcta de layouts de páginas web.",
+      "cover": "https://i.ytimg.com/vi/ts9qfCKamKg/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=ts9qfCKamKg",
+      "category": "frontend"
+    },
+    {
+      "id": "3969",
+      "title": "Simplificando el Back End",
+      "description": "¿Quieres conocer y entender mejor qué es el Back End? En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla.",
+      "cover": "https://i.ytimg.com/vi/XuSXJ9DUcvY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=XuSXJ9DUcvY",
+      "category": "backend"
+    },
+    {
+      "id": "e62e",
+      "title": "¿Cuáles son las principales áreas de la programación?",
+      "description": "¿Te gustaría trabajar en el mercado de tecnología? ¿No sabes cuál de las diversas áreas de la programación te gustaría aprender? Debido a la inmensa cantidad de lenguajes de programación te sientes confundida/o y no sabes por dónde empezar? Acompaña a nuestra instructora y descubre la respuesta a estas y otras interrogantes.",
+      "cover": "https://i.ytimg.com/vi/03cxUlwLVt4/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=03cxUlwLVt4",
+      "category": "innovacion"
+    },
+    {
+      "id": "b7b4",
+      "title": "¿Qué significa ser un Desarrollador Full Stack?",
+      "description": "Un desarrollador Full Stack es quien se encarga del Front End y Back End de una aplicación, ¿no? Y si te digo que hay mucho más que eso.",
+      "cover": "https://i.ytimg.com/vi/eejIHbOk_uI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=eejIHbOk_uI",
+      "category": "innovacion"
+    },
+    {
+      "id": "7656",
+      "title": "¿Qué es la lógica de programación y cómo aplicarla?",
+      "description": "Decidiste que quieres estudiar programación, pero ahora te estás preguntando ¿Qué debes estudiar primero?. En este video Christian Velazco, Ingrid Silva y Jeanmarie Quijada te guiarán en el camino que debes seguir.  Hablarán acerca de la lógica de programación, como pensar de forma lógica y los conceptos que debes aprender, para dar tus primeros pasos en la programación.",
+      "cover": "https://i.ytimg.com/vi/3W983Q2NzRI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=3W983Q2NzRI",
+      "category": "backend"
+    },
+    {
+      "id": "d8ff",
+      "title": "Domina tu flujo de trabajo con Kanban: ¡La guía definitiva para la eficiencia!",
+      "description": "Domina tu flujo de trabajo con Kanban: ¡La guía definitiva para la eficiencia!",
+      "cover": "https://i.ytimg.com/vi/ew1mwLviTWY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=ew1mwLviTWY",
+      "category": "innovacion"
+    },
+    {
+      "id": "6efd",
+      "title": "¿Qué es la Programación Orientada a Objetos?",
+      "description": "¿Alguna vez escuchaste expresiones como “orientación a objetos” o \"programación orientada a objetos\"? En este video, hablaremos de este que es el paradigma más utilizado para el desarrollo de aplicaciones actualmente, de sus ventajas y de qué tipos de problemas se propone a solucionar. Vamos a explicar sobre los conceptos de clase y objeto, así como los cuatro pilares de la orientación a objetos, la encapsulación, la herencia, el polimorfismo y la abstracción.",
+      "cover": "https://i.ytimg.com/vi/Oigen2sjagk/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=Oigen2sjagk",
+      "category": "backend"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+  background-color: #f0f0f0;
+  overflow-wrap: break-word;
+}
+
+h1,
+p,
+span {
+  margin: 0;
+  padding: 0.5rem 0rem;
+}
+
+/* Estilo para el contenedor de la barra de desplazamiento */
+::-webkit-scrollbar {
+  width: 12px; /* Ancho de la barra de desplazamiento */
+  height: 12px; /* Altura para las barras horizontales */
+}
+
+/* Estilo para el fondo de la barra de desplazamiento */
+::-webkit-scrollbar-track {
+  background-color: #111313; /* Fondo oscuro */
+  border-radius: 10px; /* Bordes redondeados */
+}
+
+/* Estilo para el "thumb" (la parte que se mueve de la scrollbar) */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    180deg,
+    #4f9fff,
+    #005a80
+  ); /* Degradado azul y azul oscuro */
+  border-radius: 10px; /* Bordes redondeados */
+  border: 3px solid #111313; /* Borde alrededor del "thumb" */
+}
+
+/* Estilo para las flechas de la barra de desplazamiento */
+::-webkit-scrollbar-button {
+  background: linear-gradient(
+    180deg,
+    #4f9fff,
+    #005a80
+  ); /* Degradado azul y azul oscuro */
+  border-radius: 10px; /* Bordes redondeados */
+  width: 12px; /* Tamaño de las flechas */
+  height: 12px; /* Tamaño de las flechas */
+}
+
+/* Estilo para cuando se pasa el mouse sobre el "thumb" */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(
+    180deg,
+    #005a80,
+    #4f9fff
+  ); /* Cambia el degradado en hover */
+}

@@ -4,8 +4,8 @@ import Category from "../../components/category";
 function HomePage() {
   return (
     <>
-      <Header></Header>
-      <Category></Category>
+      <Header />
+      <Category />
     </>
   );
 }
