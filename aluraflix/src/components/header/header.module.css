@@ -37,3 +37,25 @@
   flex-direction: column;
   margin: 2rem;
 }
+
+@media screen and (max-width: 360px) {
+  .headerContainer {
+    height: fit-content;
+  }
+}
+
+@media screen and (max-width: 260px) {
+  .headerSubContainer {
+    margin: 0.75rem;
+  }
+
+  .categoryFrontEnd {
+    padding: 0.5rem 0.5rem;
+    font-size: 1.25rem;
+    width: fit-content;
+  }
+
+  .headerTitle {
+    font-size: 1.5rem;
+  }
+}

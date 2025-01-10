@@ -1,10 +1,18 @@
 body {
   background-color: var(--dark-gray);
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 .form {
-  background-color: black;
+  background-color: #191919;
   color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .formContainer {
@@ -12,10 +20,65 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 20px;
+  width: 100%;
 }
 
-.title,
-.description {
+.title {
+  font-size: 24px;
+  font-weight: bold;
   color: #fff;
   text-align: center;
+  margin-bottom: 10px;
+}
+
+.description {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.border {
+  height: 1rem;
+}
+
+button {
+  background-color: #040404;
+  color: #fff;
+  border-color: white;
+  border-width: 0.25rem;
+  border-style: solid;
+  border-radius: 0.5rem;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--dark-gray);
+  color: var(--dark-blue);
+  border-color: var(--dark-blue);
+}
+
+input,
+select {
+  border-radius: 5px;
+  padding: 1rem;
+  border: none;
+  margin-bottom: 1rem;
+  width: 90%;
+  background-color: #191919;
+  border: 1px solid #aaa;
+  color: white;
+  box-sizing: border-box;
+}
+
+.buttonContainer {
+  display: flex;
+  gap: 1rem;
+}
+
+@media screen and (max-width: 360px) {
+  .buttonContainer {
+    display: flex;
+    flex-direction: column;
+  }
 }

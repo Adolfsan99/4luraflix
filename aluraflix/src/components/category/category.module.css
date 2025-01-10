@@ -9,7 +9,7 @@
 }
 
 .categoryContainer {
-  padding: 2rem;
+  gap: 2rem;
   display: flex;
 }
 .categoryTitle {
@@ -26,7 +26,6 @@
   background-color: #030303;
   width: 33%;
   /*padding: 0.5rem;*/
-  margin: 1rem;
   border-radius: 1rem;
   /*border-color: #257be5;*/
   border-style: solid;
@@ -67,4 +66,37 @@
 .videoButton:hover {
   background-color: white;
   color: black;
+}
+
+@media screen and (max-width: 640px) {
+  .mainCategory {
+    padding: 1rem;
+  }
+  .categoryContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  .videoContrainer {
+    width: clamp(8rem, 100%, 100%);
+  }
+  .videoTitle {
+    font-size: 0.75rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .mainCategory {
+    padding: 0.25rem;
+  }
+  .categoryContainer {
+    gap: 1rem;
+  }
+}
+
+@media screen and (max-width: 260px) {
+  .categoryTitle {
+    padding: 0.5rem 0.5rem;
+    font-size: 1.25rem;
+    width: fit-content;
+  }
 }

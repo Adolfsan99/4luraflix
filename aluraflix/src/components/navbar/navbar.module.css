@@ -14,16 +14,15 @@ html {
 
 .navbarLogo {
   margin: 1rem;
-  width: 50%;
+  width: 10rem;
 }
 
 .navbarButtons {
-  margin: 1rem;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row-reverse;
   gap: 1rem;
-  width: 50%;
+  margin: 1rem;
 }
 
 .navbarButtonHome {
@@ -39,6 +38,7 @@ html {
   background-color: var(--dark-gray);
   color: var(--dark-blue);
   border-color: var(--dark-blue);
+  cursor: pointer;
 }
 
 .navbarButtonNewVideo,
@@ -50,10 +50,24 @@ html {
   border-style: solid;
   border-radius: 0.5rem;
   padding: 0.5rem 2rem;
+  cursor: pointer;
 }
 .navbarButtonNewVideo:hover,
 .navbarButtonNewVideo:active {
   background-color: var(--dark-gray);
   color: var(--dark-blue);
   border-color: var(--dark-blue);
+}
+
+@media screen and (max-width: 360px) {
+  .navbar,
+  .navbarButtons {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media screen and (max-width: 200px) {
+  .navbarLogo {
+    width: 90%;
+  }
 }
